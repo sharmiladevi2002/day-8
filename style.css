@@ -1,0 +1,71 @@
+.head{
+    background-color: rgb(235, 12, 176);
+    height: 50px;
+    display: flex;
+  justify-content: space-around;
+  align-items: center;
+  padding:20px;
+
+
+}
+.one{
+    color: white;
+    font-size: 25px;
+    background-color: blueviolet;
+    height: 400px;
+    width: 350px;
+    display: flex;
+   justify-content: center;
+    
+   
+}
+.two{
+    color: white;
+    font-size: 25px;
+    background-color: rgb(133, 221, 224);
+    height: 400px;
+    width: 800px;
+    display: flex;
+    justify-content: center;
+
+}
+.three{
+    color: white;
+    font-size: 25px;
+    background-color: #ffab91;
+    height: 400px;
+    width: 200px;
+    display: flex;
+    justify-content: center;
+ 
+}
+.container{
+    display: flex;
+    justify-content: space-around;
+    padding: 10px;
+    margin-top: -5px;
+    
+   
+ 
+}
+.foot{
+    background-color: rgb(235, 12, 176);
+    height: 50px;
+    display: flex;
+  justify-content: space-around;
+  align-items: center;
+  padding:20px;
+
+
+}
+h1{
+    color: red;
+    text-align: center;
+}
+.head h1{
+    color: rgb(233, 219, 23);
+}
+.foot h1{
+    color: rgb(233, 219, 23);
+
+}
